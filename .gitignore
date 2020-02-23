@@ -27,8 +27,6 @@
 .packages
 .pub-cache/
 .pub/
-**/key/
-**/android/key.properties
 /build/
 
 # Android related
