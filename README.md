@@ -1,4 +1,4 @@
-# Seats_Please
+# Seats Please
 Flutter project, for study purpose.
 
 ## PlayStore
