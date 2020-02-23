@@ -1,4 +1,4 @@
-# primeiro_projeto
+# Seats_Please
 
 A new Flutter project.
 
